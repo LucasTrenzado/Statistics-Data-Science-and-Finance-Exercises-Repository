@@ -15,4 +15,5 @@ Data Visualization for Portfolios and Financial Analysis
 
 EDA for Portfolios and Returns
 
+https://github.com/LucasTrenzado/Statistics-Data-Science-and-Finance-Exercises-Repository/blob/main/MAIN%20NOTEBOOK.ipynb
           
